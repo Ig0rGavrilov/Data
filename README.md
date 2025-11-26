@@ -35,12 +35,15 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 **Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/Accident%20Forecasting%20Using%20SARIMA%20A%20Case%20Study%20on%20Temporal%20Trends%20from%202010%20to%202024)  
 
 ### A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes
-**Abstract**:
 
-**Keywords**:
+**Abstract**: Accurate identification of hazardous road segments is essential for improving road safety and prioritising preventive interventions. This study proposes a neural network–based framework for predicting hazardous road segments by leveraging detailed geometrical properties of roads, including lane number, lane width, and curvature. The proposed framework was applied to the D1 highway in the Czech Republic, using geospatial data and reported road accidents from 2024.
+The road geometry was divided into 10 m sectors, from which sequences of 300 m were generated to form input for a Long Short-Term Memory (LSTM) network. The model was trained using a weighted binary cross-entropy loss function to address class imbalance, where hazardous segments represented only 29.2% of samples. The trained model demonstrated strong predictive performance, achieving a weighted F1 score of 0.895 and a macro F1 score of 0.906, which effectively distinguished between hazardous and non-hazardous highway segments.
+The results demonstrate that integrating detailed road attributes within an LSTM-based framework can effectively capture spatial dependencies and non-linear relationships associated with accident occurrence. The framework provides a scalable approach for identifying high-risk segments across various road types, offering valuable support for data-driven decision-making in transportation safety management.  
+
+**Keywords**: Road accidents; LSTM; Hazardous road segments; Road geometry; Traffic safety prediction  
 **DOI**: [TBD]()  
 **Authors**:  I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373)), P. Hrubeš ([ORCID](https://orcid.org/0000-0002-8823-0673)), E. Pelikan  
-**Data**: [Data]()
+**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
 
 ## Conference papers
 
