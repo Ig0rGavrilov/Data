@@ -11,9 +11,8 @@ areas like Prague. Findings suggest that the pandemic has reshaped commuting pat
 underscores the need for targeted policies to enhance road safety, especially during high-risk seasons.  
 
 **Keywords**: COVID-19, Road accidents, Traffic safety, Lockdown effects, Urban mobility, Seasonal trends, Data analysis  
-**DOI**: [10.14311/NNW.2024.34.017](https://doi.org/10.14311/NNW.2024.34.017)  
-**Authors**: I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373))  
-**Authors**: I. Gavrilov [<img src="~image/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
+**DOI**: [10.14311/NNW.2024.34.017](https://doi.org/10.14311/NNW.2024.34.017)   
+**Authors**: I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
 **Data**: [Data](/POST-PANDEMIC%20ROAD%20ACCIDENT%20ANALYSIS%20PATTERNS%20AND%20IMPACTS)  
 
 ### Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting  
@@ -23,8 +22,8 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 
 **Keywords**: Road accidents, time series forecasting, SARIMA, recurrent neural networks (RNN), hybrid models, BiRNN, BiLSTM, transport safety, residual modelling  
 **DOI**: [TBD]()  
-**Authors**:  I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373)), P. Hrubeš ([ORCID](https://orcid.org/0000-0002-8823-0673)), E. Pelikan  
-**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/Hybrid%20SARIMA%E2%80%93Recurrent%20Neural%20Network%20Approach%20for%20Road%20Accident%20Forecasting)  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
+**Data**: [Data](/Hybrid%20SARIMA%E2%80%93Recurrent%20Neural%20Network%20Approach%20for%20Road%20Accident%20Forecasting)  
 
 ### Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024  
 
@@ -32,8 +31,8 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 
 **Keywords**: SARIMA, road accidents, time-series forecasting, seasonal trends, traffic safety  
 **DOI**: [TBD]()  
-**Authors**:  I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373)), E. Pelikan  
-**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/Accident%20Forecasting%20Using%20SARIMA%20A%20Case%20Study%20on%20Temporal%20Trends%20from%202010%20to%202024)  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), E. Pelikan  
+**Data**: [Data](/Accident%20Forecasting%20Using%20SARIMA%20A%20Case%20Study%20on%20Temporal%20Trends%20from%202010%20to%202024)  
 
 ### A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes
 
@@ -43,8 +42,8 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 
 **Keywords**: Road accidents; LSTM; Hazardous road segments; Road geometry; Traffic safety prediction  
 **DOI**: [TBD]()  
-**Authors**:  I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373)), P. Hrubeš ([ORCID](https://orcid.org/0000-0002-8823-0673)), E. Pelikan  
-**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
+**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
 
 ## Conference papers
 
@@ -54,5 +53,5 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 
 **Keywords**: Dopravní nehody; GIS; prostorová analýza; Modelování; Vizualizace  
 **DOI**: [10.31490/9788024847955-4](https://doi.org/10.31490/9788024847955-4)  
-**Authors**:  I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373))  
-**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/PROSTOROV%C3%81%20ANAL%C3%9DZA%20M%C3%8DST%20DOPRAVN%C3%8DCH%20NEHOD%20NA%20D%C3%81LNIC%C3%8DCH%20I.%20A%20II.%20T%C5%98IDY%20V%20%C4%8CESK%C3%89%20REPUBLICE)  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
+**Data**: [Data](/PROSTOROV%C3%81%20ANAL%C3%9DZA%20M%C3%8DST%20DOPRAVN%C3%8DCH%20NEHOD%20NA%20D%C3%81LNIC%C3%8DCH%20I.%20A%20II.%20T%C5%98IDY%20V%20%C4%8CESK%C3%89%20REPUBLICE)  
