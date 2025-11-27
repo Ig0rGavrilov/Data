@@ -26,3 +26,5 @@ The dataset supports the full reproducibility of the model architecture, preproc
 import numpy as np
 data = np.load("sequences_labels.npz")
 data["X"].shape, data["y"].shape
+```  
+[⬆ Back to top](#a-neural-networkbased-framework-for-identifying-hazardous-road-segments-using-geometrical-road-attributes)  

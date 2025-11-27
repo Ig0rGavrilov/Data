@@ -1,5 +1,13 @@
 # Source data for the Articles and Conference papers:  
 
+## Table of Contents
+- [Articles](#articles)
+  - [POST-PANDEMIC ROAD ACCIDENT ANALYSIS](#post-pandemic-road-accident-analysis-patterns-and-impacts)
+  - [Hybrid SARIMA–RNN Approach](#hybrid-sarima–recurrent-neural-network-approach-for-road-accident-forecasting)
+  - [Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024](#accident-forecasting-using-sarima-a-case-study-on-temporal-trends-from-2010-to-2024)
+  - [Neural Network Hazardous Segments](#a-neural-network–based-framework-for-identifying-hazardous-road-segments-using-geometrical-road-attributes)
+- [Conference Papers](#conference-papers)  
+  - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)
 ## Articles  
 
 ### POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS  
@@ -11,9 +19,12 @@ areas like Prague. Findings suggest that the pandemic has reshaped commuting pat
 underscores the need for targeted policies to enhance road safety, especially during high-risk seasons.  
 
 **Keywords**: COVID-19, Road accidents, Traffic safety, Lockdown effects, Urban mobility, Seasonal trends, Data analysis  
-**DOI**: [10.14311/NNW.2024.34.017](https://doi.org/10.14311/NNW.2024.34.017)   
+**DOI**: [10.14311/NNW.2024.34.017](https://doi.org/10.14311/NNW.2024.34.017)  
+![DOI](https://img.shields.io/badge/DOI-10.14311%2FNNW.2024.34.017-blue)  
 **Authors**: I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
 **Data**: [Data](/POST-PANDEMIC%20ROAD%20ACCIDENT%20ANALYSIS%20PATTERNS%20AND%20IMPACTS)  
+
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
 ### Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting  
 
@@ -25,6 +36,8 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
 **Data**: [Data](/Hybrid%20SARIMA%E2%80%93Recurrent%20Neural%20Network%20Approach%20for%20Road%20Accident%20Forecasting)  
 
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
+
 ### Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024  
 
 **Abstract**: Road traffic accidents are a critical public safety concern, with global disparities in accident rates driven by variations in law enforcement, infrastructure quality, and emergency response. This study explores the application of Seasonal Autoregressive Integrated Moving Average (SARIMA) models to forecast monthly road traffic accidents from January 2010 to October 2024. Using a dataset of over 1.2 million accidents, the research identifies strong seasonal trends and evaluates the impact of COVID-19-related restrictions on traffic patterns. Following data transformation and stationarity testing, SARIMA models were optimized based on criteria such as AIC, AICc, BIC, and RMSE. The findings demonstrate the efficacy of SARIMA in accurately capturing complex temporal dynamics, offering valuable insights for traffic safety planning and policy formulation. This paper underscores the importance of robust forecasting tools in mitigating future road accidents and enhancing global road safety strategies.  
@@ -33,6 +46,8 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 **DOI**: [TBD]()  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), E. Pelikan  
 **Data**: [Data](/Accident%20Forecasting%20Using%20SARIMA%20A%20Case%20Study%20on%20Temporal%20Trends%20from%202010%20to%202024)  
+
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
 ### A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes
 
@@ -45,6 +60,8 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
 **Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
 
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
+
 ## Conference papers
 
 ### PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE
@@ -53,5 +70,8 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 
 **Keywords**: Dopravní nehody; GIS; prostorová analýza; Modelování; Vizualizace  
 **DOI**: [10.31490/9788024847955-4](https://doi.org/10.31490/9788024847955-4)  
+![DOI](https://img.shields.io/badge/DOI-10.31490%2F9788024847955--4-blue)  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
 **Data**: [Data](/PROSTOROV%C3%81%20ANAL%C3%9DZA%20M%C3%8DST%20DOPRAVN%C3%8DCH%20NEHOD%20NA%20D%C3%81LNIC%C3%8DCH%20I.%20A%20II.%20T%C5%98IDY%20V%20%C4%8CESK%C3%89%20REPUBLICE)  
+
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  

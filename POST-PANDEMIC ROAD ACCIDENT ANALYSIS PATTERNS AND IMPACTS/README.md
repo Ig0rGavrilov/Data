@@ -70,4 +70,7 @@ df_RegionPopulationCSU <- readRDS('data/dataPopulationCSUMonthly.rds')
 
 class(df)   # list / tibble
 class(df_Area)
-class(df_RegionPopulationCSU)  # tsibble / tibble
+class(df_RegionPopulationCSU)  # tsibble / tibble  
+```  
+
+[⬆ Back to top](#post-pandemic-road-accident-analysis-patterns-and-impacts)  

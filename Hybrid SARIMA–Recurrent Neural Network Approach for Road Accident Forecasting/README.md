@@ -20,4 +20,6 @@ The data supports:
 ```r
 library(tibble)
 df <- readRDS("df_full_daily.rds")  # or your dataset filename
-class(df)                     # should return: "tbl_df" "tbl" "data.frame"  
+class(df)                     # should return: "tbl_df" "tbl" "data.frame"
+```
+[⬆ Back to top](#hybrid-sarimarecurrent-neural-network-approach-for-road-accident-forecasting)  
