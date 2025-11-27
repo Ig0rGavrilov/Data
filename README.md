@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [Articles](#articles)
-  - [POST-PANDEMIC ROAD ACCIDENT ANALYSIS](#post-pandemic-road-accident-analysis-patterns-and-impacts)
-  - [Hybrid SARIMA–RNN Approach](#hybrid-sarima–recurrent-neural-network-approach-for-road-accident-forecasting)
+  - [POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS](#post-pandemic-road-accident-analysis-patterns-and-impacts)
+  - [Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting](#hybrid-sarima–recurrent-neural-network-approach-for-road-accident-forecasting)
   - [Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024](#accident-forecasting-using-sarima-a-case-study-on-temporal-trends-from-2010-to-2024)
-  - [Neural Network Hazardous Segments](#a-neural-network–based-framework-for-identifying-hazardous-road-segments-using-geometrical-road-attributes)
+  - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-for-identifying-hazardous-road-segments-using-geometrical-road-attributes)
 - [Conference Papers](#conference-papers)  
   - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)
 ## Articles  
