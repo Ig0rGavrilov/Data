@@ -13,7 +13,8 @@ underscores the need for targeted policies to enhance road safety, especially du
 **Keywords**: COVID-19, Road accidents, Traffic safety, Lockdown effects, Urban mobility, Seasonal trends, Data analysis  
 **DOI**: [10.14311/NNW.2024.34.017](https://doi.org/10.14311/NNW.2024.34.017)  
 **Authors**: I. Gavrilov ([ORCID](https://orcid.org/0009-0006-5341-8373))  
-**Data**: [Data](https://github.com/Ig0rGavrilov/Data/tree/main/POST-PANDEMIC%20ROAD%20ACCIDENT%20ANALYSIS%20PATTERNS%20AND%20IMPACTS)  
+**Authors**: I. Gavrilov [<img src="image/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
+**Data**: [Data](/POST-PANDEMIC%20ROAD%20ACCIDENT%20ANALYSIS%20PATTERNS%20AND%20IMPACTS)  
 
 ### Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting  
 
