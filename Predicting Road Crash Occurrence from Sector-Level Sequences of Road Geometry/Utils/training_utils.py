@@ -3,7 +3,7 @@ from torch import nn
 from sklearn.metrics import confusion_matrix
 
 def train_step(model: nn.Module,
-               dataloader: torch.utils.DataLoader,
+               dataloader: torch.utils.data.DataLoader,
                loss_fn: torch.nn.Module,
                optimizer: torch.optim.Optimizer,
                device: torch.cuda):
@@ -34,7 +34,7 @@ def train_step(model: nn.Module,
 
 
 def val_step(model: nn.Module,
-               dataloader: torch.utils.DataLoader,
+               dataloader: torch.utils.data.DataLoader,
                loss_fn: torch.nn.Module,
                device=torch.cuda):
     
