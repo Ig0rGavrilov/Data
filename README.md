@@ -62,7 +62,7 @@ The resulting dataset supports detailed analysis of the relationships between tr
 **Keywords**: road accidents; motorway safety; D1 motorway; Czech Republic; Average Annual Daily Traffic; AADT; spatial dataset; transport infrastructure; road geometry; traffic analysis; data integration; GIS; spatial analysis
 **DOI**: [TBD]()  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)
-**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes) 
+**Data**: [Data](/A%20Combined%20Dataset%20of%20Road%20Accidents%20on%20the%20D1%20Motorway%20in%20the%20CZ) 
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
