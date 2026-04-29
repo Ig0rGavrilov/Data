@@ -3,14 +3,15 @@
 ## Table of Contents
 - [Articles](#articles)
   - [POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS](#post-pandemic-road-accident-analysis-patterns-and-impacts)
-  - [Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting](#hybrid-sarima–recurrent-neural-network-approach-for-road-accident-forecasting)
+  - [Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting](#article-hybid-sarima)
   - [Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024](#accident-forecasting-using-sarima-a-case-study-on-temporal-trends-from-2010-to-2024)
-  - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-for-identifying-hazardous-road-segments-using-geometrical-road-attributes)
+  - [A Combined Dataset of Road Accidents on the D1 Motorway in the Czech Republic (2025) with Average Annual Daily Traffic (AADT) and Spatial Attributes](#a-combined-dataset-of-road-accidents-on-the-d1-motorway)
 - [Conference Papers](#conference-papers)  
   - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)
+  - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-binary)
 ## Articles  
 
-### POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS  
+### POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS
 
 **Abstract**: This study analyzes the impact of COVID-19 restrictions on road accident trends in the Czech Republic from 2015 to 2024, utilizing a comprehensive
 dataset of over one million recorded accidents. The research highlights a significant decline in accident rates during the strict lockdown periods, correlating reduced
@@ -26,7 +27,8 @@ underscores the need for targeted policies to enhance road safety, especially du
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
-### Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting  
+### Hybrid SARIMA–Recurrent Neural Network Approach for Road Accident Forecasting
+<a id="article-hybid-sarima"></a>
 
 **Abstract**: This study investigates the forecasting of daily road traffic accidents using time series models, with a focus on enhancing prediction accuracy through hybrid methodologies. We employ a Seasonal Autoregressive Integrated Moving Average (SARIMA) model to capture linear and seasonal patterns in accident data from 2010 to 2023. To address potential non-linearities, we extend the approach by modelling SARIMA residuals using Recurrent Neural Networks (RNNs), including bidirectional RNN (BiRNN) and Long Short-Term Memory (LSTM) variants, to develop a hybrid SARIMA-RNN framework. The hybrid model integrates SARIMA forecasts with RNN-based residual predictions to improve overall accuracy.
 The unidirectional LSTM outperformed other RNN architectures, achieving the lowest RMSE (0.184) and MAPE (1.0966%), confirming its effectiveness in modelling temporal dependencies. A hybrid SARIMA-LSTM model was also evaluated to enhance the prediction of residuals; however, for one-step-ahead forecasting, it did not improve accuracy compared to the baseline SARIMA, with only minor increases in RMSE and MAPE.  
@@ -49,16 +51,18 @@ The unidirectional LSTM outperformed other RNN architectures, achieving the lowe
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
-### A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes
+### A Combined Dataset of Road Accidents on the D1 Motorway in the Czech Republic (2025) with Average Annual Daily Traffic (AADT) and Spatial Attributes
+<a id="a-combined-dataset-of-road-accidents-on-the-d1-motorway"></a>
 
-**Abstract**: Accurate identification of hazardous road segments is essential for improving road safety and prioritising preventive interventions. This study proposes a neural network–based framework for predicting hazardous road segments by leveraging detailed geometrical properties of roads, including lane number, lane width, and curvature. The proposed framework was applied to the D1 highway in the Czech Republic, using geospatial data and reported road accidents from 2024.
-The road geometry was divided into 10 m sectors, from which sequences of 300 m were generated to form input for a Long Short-Term Memory (LSTM) network. The model was trained using a weighted binary cross-entropy loss function to address class imbalance, where hazardous segments represented only 29.2% of samples. The trained model demonstrated strong predictive performance, achieving a weighted F1 score of 0.895 and a macro F1 score of 0.906, which effectively distinguished between hazardous and non-hazardous highway segments.
-The results demonstrate that integrating detailed road attributes within an LSTM-based framework can effectively capture spatial dependencies and non-linear relationships associated with accident occurrence. The framework provides a scalable approach for identifying high-risk segments across various road types, offering valuable support for data-driven decision-making in transportation safety management.  
+**Abstract**: This paper presents a combined and processed dataset of road accidents on the D1 motorway in the Czech Republic for the year 2025, enriched with Average Annual Daily Traffic (AADT) and spatial road attributes. The dataset integrates three primary data sources: police-reported road accident records, a national road network database, and traffic census data. To enable high-resolution spatial analysis, the motorway geometry was divided into uniform sectors of approximately 10 m in length, which serve as the fundamental spatial units.
+Each sector contains aggregated information on accident occurrence, traffic intensity by vehicle category (passenger vehicles, light commercial vehicles, heavy vehicles, and motorcycles), and road infrastructure characteristics, including the number of lanes, road width, and local curvature derived from angular changes between consecutive sectors. The dataset is structured into four directional segments corresponding to the two main parts of the D1 motorway and their respective travel directions.
+The resulting dataset supports detailed analysis of the relationships between traffic intensity, road geometry, and accident occurrence. It is particularly suitable for spatial modelling, risk assessment, and transport safety research. Due to licensing restrictions, only the processed and integrated dataset is provided; however, all original data sources are publicly accessible and referenced. The dataset is made available through the Mendeley Data repository to ensure transparency and reproducibility.
 
-**Keywords**: Road accidents; LSTM; Hazardous road segments; Road geometry; Traffic safety prediction  
+
+**Keywords**: road accidents; motorway safety; D1 motorway; Czech Republic; Average Annual Daily Traffic; AADT; spatial dataset; transport infrastructure; road geometry; traffic analysis; data integration; GIS; spatial analysis
 **DOI**: [TBD]()  
-**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
-**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)
+**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes) 
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
@@ -73,5 +77,19 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 ![DOI](https://img.shields.io/badge/DOI-10.31490%2F9788024847955--4-blue)  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
 **Data**: [Data](/PROSTOROV%C3%81%20ANAL%C3%9DZA%20M%C3%8DST%20DOPRAVN%C3%8DCH%20NEHOD%20NA%20D%C3%81LNIC%C3%8DCH%20I.%20A%20II.%20T%C5%98IDY%20V%20%C4%8CESK%C3%89%20REPUBLICE)  
+
+[⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
+
+### A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes
+<a id="a-neural-network–based-framework-binary"></a>
+
+**Abstract**: Accurate identification of hazardous road segments is essential for improving road safety and prioritising preventive interventions. This study proposes a neural network–based framework for predicting hazardous road segments by leveraging detailed geometrical properties of roads, including lane number, lane width, and curvature. The proposed framework was applied to the D1 highway in the Czech Republic, using geospatial data and reported road accidents from 2024.
+The road geometry was divided into 10 m sectors, from which sequences of 300 m were generated to form input for a Long Short-Term Memory (LSTM) network. The model was trained using a weighted binary cross-entropy loss function to address class imbalance, where hazardous segments represented only 29.2% of samples. The trained model demonstrated strong predictive performance, achieving a weighted F1 score of 0.895 and a macro F1 score of 0.906, which effectively distinguished between hazardous and non-hazardous highway segments.
+The results demonstrate that integrating detailed road attributes within an LSTM-based framework can effectively capture spatial dependencies and non-linear relationships associated with accident occurrence. The framework provides a scalable approach for identifying high-risk segments across various road types, offering valuable support for data-driven decision-making in transportation safety management.  
+
+**Keywords**: Road accidents; LSTM; Hazardous road segments; Road geometry; Traffic safety prediction  
+**DOI**: [TBD]()  
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
+**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
