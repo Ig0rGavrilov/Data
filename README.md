@@ -34,7 +34,8 @@ underscores the need for targeted policies to enhance road safety, especially du
 The unidirectional LSTM outperformed other RNN architectures, achieving the lowest RMSE (0.184) and MAPE (1.0966%), confirming its effectiveness in modelling temporal dependencies. A hybrid SARIMA-LSTM model was also evaluated to enhance the prediction of residuals; however, for one-step-ahead forecasting, it did not improve accuracy compared to the baseline SARIMA, with only minor increases in RMSE and MAPE.  
 
 **Keywords**: Road accidents, time series forecasting, SARIMA, recurrent neural networks (RNN), hybrid models, BiRNN, BiLSTM, transport safety, residual modelling  
-**DOI**: [TBD]()  
+**DOI**: [10.1186/s12544-026-00835-z]( https://www.doi.org/10.1186/s12544-026-00835-z)  
+[![DOI](https://img.shields.io/static/v1?label=DOI&message=10.1186%2Fs12544-026-00835-z&color=blue)](https://doi.org/10.1186/s12544-026-00835-z)   
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
 **Data**: [Data](/Hybrid%20SARIMA%E2%80%93Recurrent%20Neural%20Network%20Approach%20for%20Road%20Accident%20Forecasting)  
 
@@ -59,10 +60,11 @@ Each sector contains aggregated information on accident occurrence, traffic inte
 The resulting dataset supports detailed analysis of the relationships between traffic intensity, road geometry, and accident occurrence. It is particularly suitable for spatial modelling, risk assessment, and transport safety research. Due to licensing restrictions, only the processed and integrated dataset is provided; however, all original data sources are publicly accessible and referenced. The dataset is made available through the Mendeley Data repository to ensure transparency and reproducibility.
 
 
-**Keywords**: road accidents; motorway safety; D1 motorway; Czech Republic; Average Annual Daily Traffic; AADT; spatial dataset; transport infrastructure; road geometry; traffic analysis; data integration; GIS; spatial analysis
-**DOI**: [TBD]()  
-**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)
-**Data**: [Data](/A%20Combined%20Dataset%20of%20Road%20Accidents%20on%20the%20D1%20Motorway%20in%20the%20CZ) 
+**Keywords**: road accidents; motorway safety; D1 motorway; Czech Republic; Average Annual Daily Traffic; AADT; spatial dataset; transport infrastructure; road geometry; traffic analysis; data integration; GIS; spatial analysis  
+**DOI**: [10.5281/zenodo.22910255](https://doi.org/10.5281/zenodo.22910255)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910255.svg)](https://doi.org/10.5281/zenodo.22910255)     
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
+**Data**: [Data](/A%20Combined%20Dataset%20of%20Road%20Accidents%20on%20the%20D1%20Motorway%20in%20the%20CZ)  
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
 
@@ -88,7 +90,8 @@ The road geometry was divided into 10 m sectors, from which sequences of 300 m w
 The results demonstrate that integrating detailed road attributes within an LSTM-based framework can effectively capture spatial dependencies and non-linear relationships associated with accident occurrence. The framework provides a scalable approach for identifying high-risk segments across various road types, offering valuable support for data-driven decision-making in transportation safety management.  
 
 **Keywords**: Road accidents; LSTM; Hazardous road segments; Road geometry; Traffic safety prediction  
-**DOI**: [TBD]()  
+**DOI**: [10.1109/SCSP69985.2026.11548640](https://doi.org/10.1109/SCSP69985.2026.11548640)  
+![DOI](https://img.shields.io/badge/DOI-10.1109/SCSP69985.2026.11548640-blue)  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
 **Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
 
