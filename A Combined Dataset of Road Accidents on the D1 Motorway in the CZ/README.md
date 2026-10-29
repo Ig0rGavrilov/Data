@@ -86,7 +86,14 @@ Each record corresponds to a **single road sector (~10 m)** and includes acciden
 ## License & Availability
 
 The dataset is publicly available via **Mendeley Data**  
-**DOI:** *[https://doi.org/10.17632/2FNM628HBP.1](https://doi.org/10.17632/2FNM628HBP.1)*
+**DOI:** *[https://doi.org/10.17632/2FNM628HBP.1](https://doi.org/10.17632/2FNM628HBP.1)*  
+
+---
+
+## Data Description Article
+
+Journal **Scientific Data** Published: 22 October 2026  
+**DOI:** *[https://doi.org/10.1038/s41597-026-08468-6](https://www.doi.org/10.1038/s41597-026-08468-6)*  
 
 ---
 

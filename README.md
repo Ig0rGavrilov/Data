@@ -61,9 +61,9 @@ The resulting dataset supports detailed analysis of the relationships between tr
 
 
 **Keywords**: road accidents; motorway safety; D1 motorway; Czech Republic; Average Annual Daily Traffic; AADT; spatial dataset; transport infrastructure; road geometry; traffic analysis; data integration; GIS; spatial analysis  
-**DOI**: [10.5281/zenodo.22910255](https://doi.org/10.5281/zenodo.22910255)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22910255.svg)](https://doi.org/10.5281/zenodo.22910255)     
-**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373)  
+**DOI**: [10.1038/s41597-026-08468-6](https://www.doi.org/10.1038/s41597-026-08468-6)  
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41597--026--08468--6-blue)](https://doi.org/10.1038/s41597-026-08468-6)    
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673)  
 **Data**: [Data](/A%20Combined%20Dataset%20of%20Road%20Accidents%20on%20the%20D1%20Motorway%20in%20the%20CZ)  
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
