@@ -7,10 +7,9 @@
   - [Accident Forecasting Using SARIMA A Case Study on Temporal Trends from 2010 to 2024](#accident-forecasting-using-sarima-a-case-study-on-temporal-trends-from-2010-to-2024)
   - [A Combined Dataset of Road Accidents on the D1 Motorway in the Czech Republic (2025) with Average Annual Daily Traffic (AADT) and Spatial Attributes](#a-combined-dataset-of-road-accidents-on-the-d1-motorway)
 - [Conference Papers](#conference-papers)  
-  - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)
-  - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-binary)
-  - [Impact of Road Geometry and Temporal Factors on the Number of Vehicles in Traffic Accidents: A GIS-Based Study]
-  (#impact-of-road-gemoetry-and-tempral-factors)  
+  - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)  
+  - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-binary)  
+  - [Impact of Road Geometry and Temporal Factors on the Number of Vehicles in Traffic Accidents: A GIS-Based Study](#impact-of-road-gemoetry-and-tempral-factors)  
 ## Articles  
 
 ### POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS
@@ -106,7 +105,7 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 **DOI**: [10.31490/9788024848693-11](https://doi.org/10.31490/9788024848693-11)  
 [![DOI](https://img.shields.io/badge/DOI-10.31490%2F9788024848693--11-blue)](https://doi.org/10.31490/9788024848693-11)   
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673)  
-**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
+**Data**: [Data](/Impact%20of%20Road%20Geometry%20and%20Temporal%20Factors%20on%20Number%20of%20Vehicles%20in%20Accidents.%20A%20GIS%20Study)  
 
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
