@@ -9,6 +9,8 @@
 - [Conference Papers](#conference-papers)  
   - [PROSTOROVÁ ANALÝZA MÍST DOPRAVNÍCH NEHOD NA DÁLNICÍCH I. A II. TŘIDY V ČESKÉ REPUBLICE](#prostorová-analýza-míst-dopravních-nehod-na-dálnicích-i-a-ii-třidy-v-české-republice)
   - [A Neural Network–Based Framework for Identifying Hazardous Road Segments Using Geometrical Road Attributes](#a-neural-network–based-framework-binary)
+  - [Impact of Road Geometry and Temporal Factors on the Number of Vehicles in Traffic Accidents: A GIS-Based Study]
+  (#impact-of-road-gemoetry-and-tempral-factors)  
 ## Articles  
 
 ### POST-PANDEMIC ROAD ACCIDENT ANALYSIS PATTERNS AND IMPACTS
@@ -94,5 +96,17 @@ The results demonstrate that integrating detailed road attributes within an LSTM
 ![DOI](https://img.shields.io/badge/DOI-10.1109/SCSP69985.2026.11548640-blue)  
 **Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673), E. Pelikan  
 **Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
+
+### Impact of Road Geometry and Temporal Factors on the Number of Vehicles in Traffic Accidents: A GIS-Based Study  
+<a id="impact-of-road-gemoetry-and-tempral-factors"></a>
+
+**Abstract** Road safety studies often rely on predefined road segments of varying lengths, which can introduce spatial inconsistency and bias in statistical modelling. This paper proposes a GIS-based framework that uses dynamically generated fixed-length road segments before and after each accident location to evaluate the influence of road geometry and temporal factors on multi-vehicle crash occurrence. The approach ensures a spatially consistent and localised assessment of highway conditions at each crash site. The methodology is demonstrated using detailed police-reported accident data from the D1 highway in the Czech Republic, covering January to December 2025, combined with a national road network dataset. For each accident, local geometric attributes, including road width, number of lanes, and curvature, were derived from a 300 m dynamically extracted highway segment centred on the projected crash location. A binomial generalised linear model with a logit link function was applied to estimate the probability of multi-vehicle accidents as a function of these geometric factors and temporal variables, including time of day, month, and day of week. Results show that wider road segments and daytime periods, particularly morning and afternoon hours, significantly increase the likelihood of multi-vehicle crashes, whereas higher lane counts and weekend periods are associated with lower risk. This framework provides a transferable, spatially robust tool for localised road safety assessment and infrastructure planning.  
+
+**Keywords**: Road Traffic Accidents, Geographic Information System, Poisson Regression,Dynamic Road Segments, Spatial-Temporal Analysis      
+**DOI**: [10.31490/9788024848693-11](https://doi.org/10.31490/9788024848693-11)  
+[![DOI](https://img.shields.io/badge/DOI-10.31490%2F9788024848693--11-blue)](https://doi.org/10.31490/9788024848693-11)   
+**Authors**:  I. Gavrilov [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0009-0006-5341-8373), P. Hrubeš [<img src="~images/orcid.png" height="16" style="vertical-align:middle;margin-left:4px;" />](https://orcid.org/0000-0002-8823-0673)  
+**Data**: [Data](/A%20Neural%20Network%E2%80%93Based%20Framework%20for%20Identifying%20Hazardous%20Road%20Segments%20Using%20Geometrical%20Road%20Attributes)  
+
 
 [⬆ Back to top](#source-data-for-the-articles-and-conference-papers)  
